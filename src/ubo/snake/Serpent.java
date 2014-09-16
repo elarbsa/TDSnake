@@ -10,7 +10,7 @@ public class Serpent {
       private LinkedList<Case> list;
       private Direction direction;
       private boolean estMort;
-      private Direction demande;
+      private Direction demande;		//Variable pressée par le joueur de type ENUM
       private int eatCount;
       private int moveCounter;
       
