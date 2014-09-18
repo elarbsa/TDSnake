@@ -1,3 +1,4 @@
+//Classe principale
 package ubo.snake;
 
 import java.awt.Dimension;
